@@ -1,0 +1,7 @@
+# Ignore data_infor folder
+/data_infor/
+
+# Ignore exp folder
+/exp/
+
+/data_npy/

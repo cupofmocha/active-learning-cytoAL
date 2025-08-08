@@ -1,1 +1,1 @@
-# active-learning-cytoAL
+This is the code for Cyto-AL.
